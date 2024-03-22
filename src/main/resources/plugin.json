@@ -1,0 +1,8 @@
+{
+  "author": "buj",
+  "description": "De chat plugin",
+  "main": "net.buj.chadusted.Main",
+  "name": "chadasted",
+  "hidden": true,
+  "version": 1.0
+}
