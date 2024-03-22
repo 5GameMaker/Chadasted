@@ -6,7 +6,7 @@ A plugin that lets players choose how their messages are formatted.
 
 1. Clone the repo: `$ git clone https://github.com/5GameMaker/Chadasted.git --depth 1`
 2. Modify file `src/main/kotlin/net/buj/chadasted/Interface.kt` to integrate with your server
-3. Do `$ git commit -a` to commit your changed
+3. Do `$ git commit -a` to commit your changes
 4. Build the plugin with `$ ./gradlew build`
 
 > Attention!
