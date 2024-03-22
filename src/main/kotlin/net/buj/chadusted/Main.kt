@@ -75,12 +75,26 @@ class Main: Plugin() {
         handler.register<Player>("messageformat", "<format...>", "Set message format") { args, player ->
             val format = args[0]
 
+            if (format.length > 80) {
+                player.sendMessage("[red]Message format cannot be longer than 80 symbols")
+                return@register
+            }
             if (!format.contains("{name}")) {
                 player.sendMessage("[red]Message format must include player name ({name})")
                 return@register
             }
             if (!format.contains("{message}")) {
                 player.sendMessage("[red]Message format must include player message ({message})")
+                return@register
+            }
+            if (format.contains("{message}") && format.contains("{rmessage}")
+                || format.indexOf("{message}") != format.lastIndexOf("{message}")
+                || format.indexOf("{rmessage}") != format.lastIndexOf("{rmessage}")) {
+                player.sendMessage("[red]Message format cannot include sent message multiple times")
+                return@register
+            }
+            if (format.indexOf("{e}") != format.lastIndexOf("{e}")) {
+                player.sendMessage("[red]e")
                 return@register
             }
             if (!format.contains("{rank}")) {

@@ -5,44 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58dfd06d-61cd-4bd6-8b91-5470fbc0475a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/buj/chadusted/Interface.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/buj/chadusted/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/buj/chadusted/Splash.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.json" afterDir="false" />
-      <change afterPath="/media/data/projects/kotlin/Chadasted/.gitignore" afterDir="false" />
-      <change afterPath="/media/data/projects/kotlin/Chadasted/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="/media/data/projects/kotlin/Chadasted/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="/media/data/projects/kotlin/Chadasted/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="/media/data/projects/kotlin/Chadasted/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="/media/data/projects/kotlin/Chadasted/.idea/misc.xml" afterDir="false" />
-      <change afterPath="/media/data/projects/kotlin/Chadasted/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="/media/data/projects/kotlin/Chadasted/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="/media/data/projects/kotlin/Chadasted/build.gradle" afterDir="false" />
-      <change afterPath="/media/data/projects/kotlin/Chadasted/gradle.properties" afterDir="false" />
-      <change afterPath="/media/data/projects/kotlin/Chadasted/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="/media/data/projects/kotlin/Chadasted/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="/media/data/projects/kotlin/Chadasted/gradlew" afterDir="false" />
-      <change afterPath="/media/data/projects/kotlin/Chadasted/gradlew.bat" afterDir="false" />
-      <change afterPath="/media/data/projects/kotlin/Chadasted/settings.gradle" afterDir="false" />
-      <change afterPath="/media/data/projects/kotlin/Chadasted/src/main/kotlin/net/buj/chadusted/Interface.kt" afterDir="false" />
-      <change afterPath="/media/data/projects/kotlin/Chadasted/src/main/kotlin/net/buj/chadusted/Main.kt" afterDir="false" />
-      <change afterPath="/media/data/projects/kotlin/Chadasted/src/main/kotlin/net/buj/chadusted/Splash.kt" afterDir="false" />
-      <change afterPath="/media/data/projects/kotlin/Chadasted/src/main/resources/plugin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="/media/data/projects/kotlin/Chadasted/LICENSE" afterDir="false" />
+      <change afterPath="/media/data/projects/kotlin/Chadasted/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/net/buj/chadusted/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/net/buj/chadusted/Main.kt" afterDir="false" />
+      <change beforePath="/media/data/projects/kotlin/Chadasted/.idea/workspace.xml" beforeDir="false" afterPath="/media/data/projects/kotlin/Chadasted/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="/media/data/projects/kotlin/Chadasted/src/main/kotlin/net/buj/chadusted/Main.kt" beforeDir="false" afterPath="/media/data/projects/kotlin/Chadasted/src/main/kotlin/net/buj/chadusted/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +36,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="/media/data/projects/kotlin/Chadasted" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
